@@ -1,0 +1,43 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Env files
+.env
+.env.*
+.env.local
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Misc
+.cache/
+*.log
+
+# Ignore lock files if you prefer to manage them separately (optional)
+# package-lock.json
+# yarn.lock
+
+# Ignore local system files
+*.tmp
+
+# If you accidentally committed large files, consider cleaning history with BFG or git-filter-repo
