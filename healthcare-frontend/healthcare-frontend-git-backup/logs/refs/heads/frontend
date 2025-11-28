@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 800b0e2974c635646f035da58bf6d08f50bf0206 SamataHS <samatahs50@gmail.com> 1764311071 +0530	commit (initial): chore: add .gitignore to exclude node_modules and env files

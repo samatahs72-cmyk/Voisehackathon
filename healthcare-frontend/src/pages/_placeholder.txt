@@ -1,0 +1,1 @@
+This folder contains the main pages. Replace placeholders with full implementations as needed.
